@@ -1,0 +1,27 @@
+// Place your key bindings in this file to override the defaults
+[
+    {
+        "key": "shift+cmd+1",
+        "command": "workbench.action.terminal.sendSequence",
+        "args": {
+            "text": "xcrun simctl io booted recordVideo ~/Desktop/screencapture.mov\u000D"
+        },
+        "when": "terminalFocus && !terminalTextSelected"
+    },
+    {
+        "key": "shift+cmd+2",
+        "command": "workbench.action.terminal.sendSequence",
+        "args": {
+            "text": "adb shell screenrecord /sdcard/screencapture.mp4\u000D"
+        },
+        "when": "terminalFocus && !terminalTextSelected"
+    },
+    {
+        "key": "shift+alt+2",
+        "command": "workbench.action.terminal.sendSequence",
+        "args": {
+            "text": "adb pull /sdcard/screencapture.mp4 ~/Desktop/screencapture.mp4\u000D"
+        },
+        "when": "terminalFocus && !terminalTextSelected"
+    },
+]
