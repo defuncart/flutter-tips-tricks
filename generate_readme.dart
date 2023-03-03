@@ -13,7 +13,7 @@ A collection of tips 'n' tricks for Flutter, Dart and Mobile/Web/Desktop Develop
   final paths = _foldersInCurrentDirectory(foldersToIgnore: ['.git']);
   for (final path in paths) {
     final tipName = path.split('-').last.split(RegExp(r"(?=(?!^)[A-Z\(])")).join(' ');
-    final link = 'https://github.com/defuncart/flutter-tips-tricks/blob/master/$path/README.md';
+    final link = 'https://github.com/defuncart/flutter-tips-tricks/blob/main/$path/README.md';
 
     sb.writeln('| [$tipName]($link) |');
   }
