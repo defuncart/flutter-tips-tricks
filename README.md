@@ -4,6 +4,7 @@ A collection of tips 'n' tricks for Flutter, Dart and Mobile/Web/Desktop Develop
 
 | Tips |
 |------|
+| [Environment Variables](https://github.com/defuncart/flutter-tips-tricks/blob/main/15-EnvironmentVariables/README.md) |
 | [Local Native Api Keys](https://github.com/defuncart/flutter-tips-tricks/blob/main/14-LocalNativeApiKeys/README.md) |
 | [Tests Blocs whenState](https://github.com/defuncart/flutter-tips-tricks/blob/main/13-TestsBlocsWhenState/README.md) |
 | [Test Coverage Report](https://github.com/defuncart/flutter-tips-tricks/blob/main/12-TestCoverageReport/README.md) |
