@@ -4,6 +4,7 @@ A collection of tips 'n' tricks for Flutter, Dart and Mobile/Web/Desktop Develop
 
 | Tips |
 |------|
+| [Flutter Web Served Devices Local Network](https://github.com/defuncart/flutter-tips-tricks/blob/main/18-FlutterWebServedDevicesLocalNetwork/README.md) |
 | [Flutter Web Memory Leaks](https://github.com/defuncart/flutter-tips-tricks/blob/main/17-FlutterWebMemoryLeaks/README.md) |
 | [Pigeon Symbol Conflicts](https://github.com/defuncart/flutter-tips-tricks/blob/main/16-PigeonSymbolConflicts/README.md) |
 | [Environment Variables](https://github.com/defuncart/flutter-tips-tricks/blob/main/15-EnvironmentVariables/README.md) |
