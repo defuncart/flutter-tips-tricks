@@ -4,6 +4,7 @@ A collection of tips 'n' tricks for Flutter, Dart and Mobile/Web/Desktop Develop
 
 | Tips |
 |------|
+| [Fastlane Multiple Flavors](https://github.com/defuncart/flutter-tips-tricks/blob/main/22-FastlaneMultipleFlavors/README.md) |
 | [Fastlane Unify Build Numbers](https://github.com/defuncart/flutter-tips-tricks/blob/main/21-FastlaneUnifyBuildNumbers/README.md) |
 | [Fastlane Automate Build Numbers](https://github.com/defuncart/flutter-tips-tricks/blob/main/20-FastlaneAutomateBuildNumbers/README.md) |
 | [Flutter Web Performance Overlay](https://github.com/defuncart/flutter-tips-tricks/blob/main/19-FlutterWebPerformanceOverlay/README.md) |
