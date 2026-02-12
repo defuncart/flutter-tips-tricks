@@ -4,6 +4,7 @@ A collection of tips 'n' tricks for Flutter, Dart and Mobile/Web/Desktop Develop
 
 | Tips |
 |------|
+| [Remove Mac As Supported Destination For iOS & iPadOS Apps](https://github.com/defuncart/flutter-tips-tricks/blob/main/23-RemoveMacAsSupportedDestinationForiOSiPadOSApps/README.md) |
 | [Fastlane Multiple Flavors](https://github.com/defuncart/flutter-tips-tricks/blob/main/22-FastlaneMultipleFlavors/README.md) |
 | [Fastlane Unify Build Numbers](https://github.com/defuncart/flutter-tips-tricks/blob/main/21-FastlaneUnifyBuildNumbers/README.md) |
 | [Fastlane Automate Build Numbers](https://github.com/defuncart/flutter-tips-tricks/blob/main/20-FastlaneAutomateBuildNumbers/README.md) |
