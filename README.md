@@ -4,6 +4,7 @@ A collection of tips 'n' tricks for Flutter, Dart and Mobile/Web/Desktop Develop
 
 | Tips |
 |------|
+| [Testing Flutter Web Apps with Playwright and Semantics](https://github.com/defuncart/flutter-tips-tricks/blob/main/25-TestingFlutterWebAppsPlaywrightSemantics/README.md) |
 | [Prevent iOS Keychain Data From Persisting After App Reinstall](https://github.com/defuncart/flutter-tips-tricks/blob/main/24-PreventiOSKeychainDataFromPersistingAfterAppReinstall/README.md) |
 | [Remove Mac As Supported Destination For iOS & iPadOS Apps](https://github.com/defuncart/flutter-tips-tricks/blob/main/23-RemoveMacAsSupportedDestinationForiOSiPadOSApps/README.md) |
 | [Fastlane Multiple Flavors](https://github.com/defuncart/flutter-tips-tricks/blob/main/22-FastlaneMultipleFlavors/README.md) |
